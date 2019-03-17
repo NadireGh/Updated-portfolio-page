@@ -192,10 +192,11 @@ input::-webkit-input-placeholder {
   margin-bottom: 50px;
 }
 .project {
-  float: left;
+  float:left;
   position: relative;
   top:  -10px;
   width: 100%;
+  
 }
 
 .project-title {

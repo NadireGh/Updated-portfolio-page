@@ -16,7 +16,7 @@ readme.png
 * List of projects and Link to the deployed version. 
 
 
- ### Link to Deployed page:https://nadiregh.github.io/Updated_portfolio-page/
+ ### Link to Deployed page: https://nadiregh.github.io/Updated-portfolio-page/
 
 
 

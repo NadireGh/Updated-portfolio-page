@@ -1,6 +1,6 @@
 # Updated-Portfolio-Page
 ![alt text](/assets/images/readme.png "Problem image")
-readme.png
+
 
 ## I Use  @media screen tags,in all my HTML files include the viewport tag ##
 
